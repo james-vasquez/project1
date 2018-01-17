@@ -1,5 +1,8 @@
-This is a simple readme file.
+This is a simple readme file
 
--change pwd-apple
 -inscription summer fh
--21:00 sm call
+-ask for tree - mushrooms
+
+
+-compile png, libz lib vs. use precompiled lib
+
